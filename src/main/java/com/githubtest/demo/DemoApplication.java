@@ -9,7 +9,7 @@ public class DemoApplication {
     public static void main(String[] args) {
         SpringApplication.run(DemoApplication.class, args);
         System.out.println("jiayouya");
-        System.out.println("加速度");
+        System.out.println("加速度1111111");
     }
 
 }
